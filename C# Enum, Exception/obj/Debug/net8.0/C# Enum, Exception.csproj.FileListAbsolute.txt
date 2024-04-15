@@ -1,0 +1,19 @@
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\bin\Debug\net8.0\C# Enum, Exception.exe
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\bin\Debug\net8.0\C# Enum, Exception.deps.json
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\bin\Debug\net8.0\C# Enum, Exception.runtimeconfig.json
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\bin\Debug\net8.0\C# Enum, Exception.dll
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\bin\Debug\net8.0\C# Enum, Exception.pdb
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\bin\Debug\net8.0\Core.dll
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\bin\Debug\net8.0\Core.pdb
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\C# Enum, Exception.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\C# Enum, Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\C# Enum, Exception.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\C# Enum, Exception.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\C# Enum, Exception.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\C# Enum, Exception.sourcelink.json
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\C# Enum,.0293D28C.Up2Date
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\C# Enum, Exception.dll
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\refint\C# Enum, Exception.dll
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\C# Enum, Exception.pdb
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\C# Enum, Exception.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CodeTasks\C# Enum, Exception Task\C# Enum, Exception\obj\Debug\net8.0\ref\C# Enum, Exception.dll
